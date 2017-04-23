@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{73CC4201-3115-4E70-919E-59F8C1EA9C32}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CsharpAssessment/Program.cs">
+    <Files>
+      <File FileName="CsharpAssessment/Program.cs" Line="9" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
