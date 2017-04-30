@@ -3,3 +3,8 @@
 /Users/Ohm/Projects/CsharpAssessment/CsharpAssessment/bin/Debug/CsharpAssessment.pdb
 /Users/Ohm/Projects/CsharpAssessment/CsharpAssessment/obj/x86/Debug/CsharpAssessment.exe
 /Users/Ohm/Projects/CsharpAssessment/CsharpAssessment/obj/x86/Debug/CsharpAssessment.pdb
+/Users/Ohm/GitHub/CsharpAssessment/CsharpAssessment/CsharpAssessment/bin/Debug/CsharpAssessment.exe
+/Users/Ohm/GitHub/CsharpAssessment/CsharpAssessment/CsharpAssessment/bin/Debug/CsharpAssessment.pdb
+/Users/Ohm/GitHub/CsharpAssessment/CsharpAssessment/CsharpAssessment/obj/x86/Debug/CsharpAssessment.csproj.CoreCompileInputs.cache
+/Users/Ohm/GitHub/CsharpAssessment/CsharpAssessment/CsharpAssessment/obj/x86/Debug/CsharpAssessment.exe
+/Users/Ohm/GitHub/CsharpAssessment/CsharpAssessment/CsharpAssessment/obj/x86/Debug/CsharpAssessment.pdb
